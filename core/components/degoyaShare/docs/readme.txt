@@ -1,5 +1,5 @@
 ----------------------------
-Extra: degoyaTag
+Extra: degoyaShare
 ----------------------------
 Version: 1.0.0beta2
 Released: 2015-09-28
