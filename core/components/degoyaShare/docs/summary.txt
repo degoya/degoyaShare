@@ -1,0 +1,9 @@
+degoyaTag
+
+This plugin displays three buttons on the resource right under the pubish resource checkbox.
+The Buttons open Social Media Share sites in a new tab with the current ressource url to post directly to your logged in accout.
+
+
+Install Package via MODX Package Management.
+Define Links & Text of the Buttons in the Lexicon.
+For extra documentation view the readme.txt
